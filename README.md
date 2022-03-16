@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My personal [GitHub Pages][https://skodapetr.github.io/].
+My personal [GitHub Pages](https://skodapetr.github.io/).
 
 <!--
 **skodapetr/skodapetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
