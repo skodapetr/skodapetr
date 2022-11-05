@@ -5,8 +5,9 @@
 </h2>
 
 <!-- Social icons section -->
-<p align="center">
-  <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+<!--
+<p align="center">  
   <a href="https://www.youtube.com/@petr-skoda">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube"/>
   </a>  
@@ -17,6 +18,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 </p>
+-->
 
 <h2 align="center">
 ❤️ Repositories
