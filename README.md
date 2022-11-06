@@ -33,6 +33,12 @@
   <a href="https://github.com/skodapetr/hierarchical-data-transformations">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skodapetr&repo=hierarchical-data-transformations&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hierarchical data transformations">
   </a>
+  <a href="https://github.com/skodapetr/open-hypothesis">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skodapetr&repo=open-hypothesis&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Open hypothesis">
+  </a>
+  <a href="https://github.com/mff-uk/data-factory">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mff-uk&repo=data-factory&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Data factory">
+  </a>
 </p>
 
 <h2 align="center">
