@@ -36,8 +36,8 @@
   <a href="https://github.com/skodapetr/open-hypothesis">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skodapetr&repo=open-hypothesis&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Open hypothesis">
   </a>
-  <a href="https://github.com/mff-uk/data-bot">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mff-uk&repo=data-bot&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Data bot">
+  <a href="https://github.com/skodapetr/data-bot">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skodapetr&repo=data-bot&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Data bot">
   </a>
 </p>
 
