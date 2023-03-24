@@ -39,6 +39,9 @@
   <a href="https://github.com/skodapetr/data-bot">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skodapetr&repo=data-bot&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Data bot">
   </a>
+  <a href="https://github.com/skodapetr/horizon">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=skodapetr&repo=horizon&theme=react&bg_color=1F222E&title_color=a02cfd&hide_border=true&icon_color=F8D866&show_icons=false" alt="Horizon">
+  </a>
 </p>
 
 <h2 align="center">
